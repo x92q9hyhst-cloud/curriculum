@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+html{
+    background-color: #ead7df;
+}
+body{
+    height: 950px;
+    width: 1200px;
+    background-color: white;
+    margin: auto;
+}
+header{
+    height: 120px;
+    width: 1200px;
+    background-color: #d9b8c4;
+    margin: auto;
+}
+aside{
+    height: 830px;
+    width: 350px;
+    background-color: #f4e7eb;
+    float: left;
+}
+main{
+    height: 830px;
+    width: 850px;
+    background-color: white;
+    float: left;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+    padding-top:30px ;
+}
+h2{
+    text-align: center;
+    background-color: #e9d3da;
+    width: 180px;
+    margin: auto;
+}
+p{
+    margin: 15px;
+    font-size: 18px;
+    
+}
